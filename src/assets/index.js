@@ -35,7 +35,7 @@ import AmazonClone from "./Amazon.png";
 import WhatsappClone from "./WhatsApp.png";
 
 import NetflixClone from "./Netflix.png";
-import HangmanGame from "./HangmanGame.png";
+import HangmanGame from "./HangManGame.png";
 import CurrencyConverter from "./CurrencyConverter.png";
 import Cadetship from "./Caddetship.png";
 export {
